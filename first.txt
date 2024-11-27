@@ -1,1 +1,1 @@
-edit2..This is the first file.edit1
+now completely changed text in 3rd edit.
