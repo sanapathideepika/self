@@ -1,1 +1,3 @@
 now completely changed text in 3rd edit....
+This is the first file. edited in branch2
+----------
